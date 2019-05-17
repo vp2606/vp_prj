@@ -1,1 +1,1 @@
-# vp_prj
+# repository for tests
